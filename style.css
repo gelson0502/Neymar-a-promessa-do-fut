@@ -14,3 +14,11 @@ button {
     color: rgb(0, 0, 0);
     font-family: "Bai Jamjuree", sans-serif;
 }
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
