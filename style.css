@@ -29,5 +29,6 @@ main {
 }
 
 img {
-    max-width: 90%;
+    width: 600px;
+    height: 600px;
 }
